@@ -24,7 +24,7 @@ function BioCard() {
                     <img src={social3} alt="linkedin" className='social-div-icon'/>
                 </div>
             </a>
-            <a href="mailto: ipshithaste@gmail.com">
+            <a href="">
                 <div className='social-div'>
                     <img src={social4} alt="mail" className='social-div-icon'/>
                 </div>
