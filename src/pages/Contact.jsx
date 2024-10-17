@@ -38,7 +38,7 @@ function Contact() {
   }
   return (
     <div className='my-[20px] h-auto mx-[20px]' id='contact'>
-        <h1 className='font-bold text-center lg:text-left text-[50px] lg:text-[100px] text-[#ffff] leading-tight font-Pop pt-[20px] mt-[150px]'>LET'S WORK <br /> TOGETHER</h1>
+        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#ffff] leading-tight font-Pop pt-[20px] mt-[150px]'>LET'S WORK <br /> TOGETHER</h1>
         <form name='form' className='my-[20px] font-Pop' onSubmit={SubmitForm}>
             <div className='flex  space-x-2'>
                 <div className='w-[50%]'>

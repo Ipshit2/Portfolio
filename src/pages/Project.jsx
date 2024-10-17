@@ -3,7 +3,7 @@ import SideCard from '../components/SideCard'
 function Project() {
   return (
     <div className='my-[20px] h-auto mx-[10px] lg:mx-[20px]' id='project'>
-        <h1 className='font-bold text-center lg:text-left text-[50px] lg:text-[100px] text-[#ffff] leading-tight font-Pop pt-[20px] mt-[150px]'>PROJECTS</h1>
+        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#ffff] leading-tight font-Pop pt-[20px] mt-[150px]'>PROJECTS</h1>
         
             <a href="https://github.com/Ipshit2/Pet-Adoption-System">
                 <SideCard
