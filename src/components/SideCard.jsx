@@ -1,5 +1,5 @@
 import React from 'react'
-import arrow from "D:/portfolio/portfolio/public/arrow.png"
+import arrow from "/public/arrow.png"
 
 function SideCard({title, content, content2}) {
   return (

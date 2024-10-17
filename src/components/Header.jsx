@@ -1,10 +1,10 @@
 import React from 'react'
-import logo from "D:/portfolio/portfolio/public/nav.png"
-import logo1 from "D:/portfolio/portfolio/public/nav (1).png"
-import logo2 from "D:/portfolio/portfolio/public/nav (2).png"
-import logo3 from "D:/portfolio/portfolio/public/nav (3).png"
-import logo4 from "D:/portfolio/portfolio/public/nav (4).png"
-import "D:/portfolio/portfolio/src/css/Header.css"
+import logo from "/public/nav.png"
+import logo1 from "/public/nav (1).png"
+import logo2 from "/public/nav (2).png"
+import logo3 from "/public/nav (3).png"
+import logo4 from "/public/nav (4).png"
+import "/src/css/Header.css"
 
 function Header() {
   return (

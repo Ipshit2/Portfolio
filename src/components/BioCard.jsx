@@ -1,9 +1,9 @@
 import React from 'react'
-import social1 from "D:/portfolio/portfolio/public/social  (1).png"
-import social2 from "D:/portfolio/portfolio/public/social  (2).png"
-import social3 from "D:/portfolio/portfolio/public/social  (3).png"
-import social4 from "D:/portfolio/portfolio/public/social  (4).png"
-import "D:/portfolio/portfolio/src/css/BioCard.css"
+import social1 from "/public/social  (1).png"
+import social2 from "/public/social  (2).png"
+import social3 from "/public/social  (3).png"
+import social4 from "/public/social  (4).png"
+import "/src/css/BioCard.css"
 
 function BioCard() {
   return (
