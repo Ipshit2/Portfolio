@@ -1,8 +1,9 @@
 import React from 'react'
-import social1 from "/public/social  (1).png"
-import social2 from "/public/social  (2).png"
-import social3 from "/public/social  (3).png"
-import social4 from "/public/social  (4).png"
+import social1 from "/public/social (1).png"
+import social2 from "/public/social (2).png"
+import social3 from "/public/social (3).png"
+import social4 from "/public/social (4).png"
+
 import photo from "/public/photo.jpg"
 import "/src/css/BioCard.css"
 
@@ -10,7 +11,7 @@ function BioCard() {
   return (
     <div className='profile-div '>
         <div className='img-comp '>
-            <img src={photo} alt="" className='h-full w-full object-cover opacity-75 rounded-2xl'/>
+            <img src={photo} alt="" className='h-[300px] w-full object-cover brightness-[.7]  rounded-2xl'/>
         </div>
         <h1 className='name '>IPSHIT HASTE</h1>
         <h1 className='about'>Fresher skilled in Full Stack Development, eager to apply knowledge to create innovative solutions. </h1>

@@ -4,8 +4,8 @@ import SkillsCard from '../components/SkillsCard'
 function Skills() {
   return (
     <div className='my-[20px] h-auto mx-[20px]' id='skills'>
-        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#ffff] leading-tight font-Pop pt-[20px] mt-[150px]'>SKILLS</h1>
-        <h1 className='text-[#fff] text-center lg:text-left font-Pop font-bold text-[25px] mt-[10px]'>Technical Skills</h1>
+        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#2D5E66] leading-tight font-Pop pt-[20px] mt-[150px]'>SKILLS</h1>
+        <h1 className='text-[#2D5E66] text-center lg:text-left font-Pop font-bold text-[25px] mt-[10px]'>Technical Skills</h1>
         <div className='grid grid-cols-2 '>
             <SkillsCard
             image="https://img.icons8.com/officexs/480/react.png"

@@ -4,7 +4,7 @@ import SideCard from '../components/SideCard'
 function Education() {
   return (
     <div className='my-[20px] h-auto mx-[20px]' id='education'>
-        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#ffff] leading-tight font-Pop pt-[20px] mt-[150px]'>EDUCATION</h1>
+        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#2D5E66] leading-tight font-Pop pt-[20px] mt-[150px]'>EDUCATION</h1>
         <SideCard
         title = "Bachelor's in Information Technology"
         content= "St. Vincent Pallotti College of Engineering and Technology, Nagpur"

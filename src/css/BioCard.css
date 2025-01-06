@@ -1,14 +1,14 @@
 .profile-div{
-    @apply w-[300px] lg:w-auto h-auto bg-[#fff] lg:mx-[49px] lg:ml-[20px] lg:mr-[30px] my-[20px] rounded-2xl py-[30px] sticky top-20 font-Pop
+    @apply w-[300px] lg:w-auto h-auto bg-[#2D5E66] lg:mx-[49px] lg:ml-[20px] lg:mr-[30px] my-[20px] rounded-2xl py-[30px] sticky top-20 font-Pop
 }
 .img-comp{
-    @apply w-auto mx-[50px] h-[230px] lg:h-[260px] bg-[#2D5E66] rounded-2xl
+    @apply w-auto mx-[50px] h-[230px] lg:h-[300px] bg-[#2D5E66] rounded-2xl
 }
 .name{
     @apply my-[20px] text-[30px] lg:text-[34px] mx-[30px] lg:mx-[50px] text-center font-semibold
 }
 .about{
-    @apply mx-[20px] lg:mt-[40px] text-center
+    @apply mx-[20px] lg:mt-[10px] text-center
 }
 .social{
     @apply h-auto w-auto  mt-[20px] flex  lg:space-x-2 justify-center
@@ -17,5 +17,5 @@
     @apply h-auto w-[55px] px-2 py-2 
 }
 .social-div-icon{
-    @apply w-8 h-8 lg:w-10 lg:h-10 rounded-full
+    @apply w-10 h-8 lg:w-10 lg:h-10 
 }
