@@ -11,7 +11,7 @@ function BioCard() {
   return (
     <div className='profile-div '>
         <div className='img-comp '>
-            <img src={photo} alt="" className='h-[300px] w-full object-cover brightness-[.7]  rounded-2xl'/>
+            <img src={photo} alt="" className='h-[250px] w-full object-cover brightness-[.7]  rounded-2xl'/>
         </div>
         <h1 className='name '>IPSHIT HASTE</h1>
         <h1 className='about'>Fresher skilled in Full Stack Development, eager to apply knowledge to create innovative solutions. </h1>

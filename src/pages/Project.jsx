@@ -3,18 +3,18 @@ import SideCard from '../components/SideCard'
 function Project() {
   return (
     <div className='my-[20px] h-auto mx-[10px] lg:mx-[20px]' id='project'>
-        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#2D5E66] leading-tight font-Pop pt-[20px] mt-[150px]'>PROJECTS</h1>
+        <h1 className='font-bold text-center lg:text-left text-[40px] lg:text-[100px] text-[#5c618b] leading-tight font-Pop pt-[20px] mt-[150px]'>PROJECTS</h1>
         
-            <a href="https://github.com/Ipshit2/Pet-Adoption-System">
+            <a href="https://github.com/Ipshit2/BookBear">
                 <SideCard
-                title = "Pet E-commerce Application"
-                content= "Project streamlines the pet adoption process through a user-friendly interface. It features both frontend and backend components, allowing users to easily browse and manage pet listings. Built with JavaScript, the system emphasizes efficiency and accessibility, enhancing the overall adoption experience. "
-                content2= "Tech Stack Used – MERN"/>
+                title = "Book Tracking and Management Application"
+                content= "Developed a web application for managing and tracking book collections. It integrates the Google Books APIto enable book searches and fetch detailed information such as authors and descriptions.The app includes user authentication, responsive design, and seamless book organization, showcasingexpertise in API integration and user-friendly development. "
+                content2= "Tech Stack Used – PERN"/>
             </a>
-            <a href="https://github.com/Ipshit2/Bookstore">
+            <a href="https://github.com/Ipshit2/Custom-foods">
             <SideCard
-                title = "Bookstore Application"
-                content= "Contains features for adding, editing, and removing book records. Users can manage bookshop inventory in a thorough and interactive way by adding new books to the database, updating existing book details, and removing books as needed."
+                title = "Customizable Food Ordering Application"
+                content= "Developed a full-stack customizable food ordering web application using the MERN stack. ImplementedJWT authentication, RESTful APIs, and a responsive React frontend for seamless user experience. Enabled dynamic menu browsing, order customization, cart management, and secure checkout, showcasingstrong skills in full-stack development and API integration."
                 content2= "Tech Stack Used – MERN"/>
             </a>
             <a href="https://github.com/Ipshit2/Poke-dex">
